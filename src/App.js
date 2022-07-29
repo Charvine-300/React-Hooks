@@ -1,5 +1,6 @@
 import './App.css';
-import Callback from './components/Callback';
+import Memo from './components/Memo';
+
 
  
 function App() { 
@@ -8,7 +9,7 @@ function App() {
 
   return (
     <div className="App"> 
-      <Callback />
+      <Memo />
     </div>
   );
 }
